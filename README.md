@@ -9,7 +9,7 @@ I’m also deeply curious and always eager to **explore new technologies**, lear
 
 <table>
 <tr>
-<td width="90%">
+<td width="70%">
 
 🎓 Engineering student with a strong interest in Machine Learning  
 🤖 Built ML and DL projects with real-world applications  
