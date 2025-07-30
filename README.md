@@ -5,22 +5,28 @@ I've worked on multiple **machine learning and deep learning projects**, focusin
 I’m also deeply curious and always eager to **explore new technologies**, learn continuously, and contribute to projects that push the boundaries of innovation.
 
 ---
-
 ## 💫 About Me
 
-- 🎓 Engineering student with a strong interest in Artificial Intelligence  
-- 🤖 Built ML and DL projects with real-world applications  
-- 💻 Focused on creating interactive apps using Streamlit  
-- 🚀 Eager to explore and learn emerging technologies in AI/ML  
-- 🤝 Open to collaboration on innovative, impactful projects  
+<table>
+<tr>
+<td width="80%">
 
----
+🎓 Engineering student with a strong interest in Artificial Intelligence  
+🤖 Built ML and DL projects with real-world applications  
+💻 Focused on creating interactive apps using Streamlit  
+🚀 Eager to explore and learn emerging technologies in AI/ML  
+🤝 Open to collaboration on innovative, impactful projects  
 
-### 🎞️ Animation Preview
+</td>
+<td>
 
-<p align="center">
-  <img src="https://github.com/GarimaSharma75/GarimaSharma75/assets/100865123/7115ae1c-1a62-45fc-a347-12c063d72ffb" alt="Girl on computer with idea" width="400px"/>
-</p>
+<img src="https://github.com/GarimaSharma75/GarimaSharma75/blob/main/animation.gif?raw=true" width="200"/>
+
+</td>
+</tr>
+</table>
+
+
 
 
 ## 🌐 Socials:
@@ -28,15 +34,16 @@ I’m also deeply curious and always eager to **explore new technologies**, lear
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GarimaSharma75&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GarimaSharma75&theme=tokyonight&hide_border=true)<br/>
+
+# Most used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaSharma75&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+
+# Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=GarimaSharma75&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
