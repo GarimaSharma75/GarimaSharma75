@@ -11,9 +11,9 @@ I’m also deeply curious and always eager to **explore new technologies**, lear
 <tr>
 <td width="80%">
 
-🎓 Engineering student with a strong interest in Artificial Intelligence  
+🎓 Engineering student with a strong interest in Machine Learning  
 🤖 Built ML and DL projects with real-world applications  
-💻 Focused on creating interactive apps using Streamlit  
+💻 Focused on creating interactive apps   
 🚀 Eager to explore and learn emerging technologies in AI/ML  
 🤝 Open to collaboration on innovative, impactful projects  
 
